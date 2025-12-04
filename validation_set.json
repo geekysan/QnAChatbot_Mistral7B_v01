@@ -1,0 +1,86 @@
+[
+  {
+    "text": "<s> [INST] What type of GIS application involves continued spatial data administration? Options: Option A - Institutional GIS applications, Option B - Project-based GIS applications, Option C - Scientific GIS applications, Option D - Temporary GIS applications. [/INST] The correct answer is Option A. </s>"
+  },
+  {
+    "text": "<s> [INST] What is a fundamental problem GIS addresses? Options: Option A - Analyzing static historical data, Option B - Understanding spatial and temporal phenomena, Option C - Creating internet maps, Option D - Managing non-geographic data. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What does the El Nino example illustrate about GIS? Options: Option A - GIS is only for weather studies, Option B - GIS requires human interaction for analysis, Option C - GIS can interpolate missing data, Option D - GIS does not require data preparation. [/INST] The correct answer is Option C. </s>"
+  },
+  {
+    "text": "<s> [INST] What is the term for data about data? Options: Option A - Metadata, Option B - Raw data, Option C - Temporal data, Option D - Attribute data. [/INST] The correct answer is Option A. </s>"
+  },
+  {
+    "text": "<s> [INST] Topological relationships in GIS describe: Options: Option A - The colors of maps, Option B - Spatial relationships between objects, Option C - Raster classifications, Option D - Data query operations. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Nominal data values are best described as: Options: Option A - Allowing arithmetic calculations, Option B - Providing a name or identifier, Option C - Being sequence-dependent, Option D - Including ratios and intervals. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What is Tobler's First Law of Geography? Options: Option A - Geographical data is always digital, Option B - Nearby locations are more likely to be similar, Option C - All spatial data has boundaries, Option D - Spatial relationships are unpredictable. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Geographic objects typically include which of the following attributes? Options: Option A - Time interval only, Option B - Shape, size, and orientation, Option C - Descriptions but no location, Option D - Unquantifiable attributes. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] In the context of GIS, what is the purpose of data preparation? Options: Option A - To collect new data, Option B - To ensure data is ready for analysis, Option C - To design the GIS interface, Option D - To store attribute data. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Which organization is commonly involved in setting GIS standards? Options: Option A - ISO, Option B - OGC, Option C - Both A and B, Option D - NASA. [/INST] The correct answer is Option C. </s>"
+  },
+  {
+    "text": "<s> [INST] What is the main purpose of a spatial database? Options: Option A - To enhance graphical map presentations, Option B - To store and manipulate both spatial and attribute data, Option C - To perform hardware diagnostics, Option D - To provide statistical analysis. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What component of GIS handles geographic data input? Options: Option A - Data capture and preparation, Option B - Data storage, Option C - Data analysis, Option D - Data presentation. [/INST] The correct answer is Option A. </s>"
+  },
+  {
+    "text": "<s> [INST] Which concept is essential for understanding the geographic coordinate system in GIS? Options: Option A - Polygon rendering, Option B - Spatial analysis algorithms, Option C - Longitude and latitude, Option D - Database management. [/INST] The correct answer is Option C. </s>"
+  },
+  {
+    "text": "<s> [INST] What feature of map projections does the Mercator projection preserve? Options: Option A - Area, Option B - Shape, Option C - Distance, Option D - Direction. [/INST] The correct answer is Option D. </s>"
+  },
+  {
+    "text": "<s> [INST] What aspect of data does the geocentric coordinate system directly relate to in GIS? Options: Option A - The visual representation of thematic layers, Option B - The spatial relation of data points to the earth's center, Option C - The temporal accuracy of the data, Option D - The scalability of the GIS application. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Which type of error is commonly associated with absolute positioning in satellite systems? Options: Option A - Algorithmic errors, Option B - Data entry errors, Option C - Measurement errors, Option D - Visualization errors. [/INST] The correct answer is Option C. </s>"
+  },
+  {
+    "text": "<s> [INST] What is the purpose of topological cleaning in GIS? Options: Option A - To enhance attribute visualization, Option B - To correct geometric and topological errors, Option C - To merge data from multiple sources, Option D - To associate raster and vector data. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Which type of digitizing requires a physical map fitted onto a tablet? Options: Option A - Automatic digitizing, Option B - On-tablet digitizing, Option C - On-screen digitizing, Option D - Semi-automatic digitizing. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What is the primary method of direct spatial data capture? Options: Option A - Field surveys, Option B - Digitizing, Option C - Rasterization, Option D - Data fusion. [/INST] The correct answer is Option A. </s>"
+  },
+  {
+    "text": "<s> [INST] Why is positional accuracy critical during digitizing? Options: Option A - To ensure aesthetic quality of maps, Option B - To avoid accumulated errors from original maps, Option C - To increase processing speed, Option D - To reduce file sizes. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What is a buffer zone in GIS? Options: Option A - A polygon created around a target feature within a specified distance, Option B - A raster cell with enhanced resolution, Option C - A spatial join of two data layers, Option D - A topological correction for overlapping polygons. [/INST] The correct answer is Option A. </s>"
+  },
+  {
+    "text": "<s> [INST] What is a common requirement for spatial overlay operators to work correctly? Options: Option A - Matching data resolutions, Option B - Overlapping study areas and georeferencing systems, Option C - Identical attribute tables, Option D - Preprocessing of raster layers. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Which overlay operator creates a new polygon layer containing all intersections of two input layers? Options: Option A - Union, Option B - Clipping, Option C - Intersection, Option D - Overwrite. [/INST] The correct answer is Option C. </s>"
+  },
+  {
+    "text": "<s> [INST] In which scenario is a decision table used in GIS analysis? Options: Option A - To automate buffer zone calculations, Option B - To define rules for raster overlay outputs, Option C - To improve map aesthetics, Option D - To merge two raster datasets. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What is the significance of map scale in GIS visualization? Options: Option A - It determines the dimensions of a map, Option B - It affects the level of detail in geographic representation, Option C - It limits the data layers visible in a map, Option D - It replaces the need for attribute tables. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] What is the main advantage of cartographic visualization in GIS? Options: Option A - It automates spatial analysis, Option B - It integrates spatial data into easily understandable graphics, Option C - It eliminates the need for attribute data, Option D - It relies entirely on topographic conventions. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] Why is abstraction important in map design? Options: Option A - To provide a realistic view of geographic phenomena, Option B - To simplify geographic data while preserving relevant information, Option C - To ensure thematic data is visually appealing, Option D - To make maps interactive for digital platforms. [/INST] The correct answer is Option B. </s>"
+  },
+  {
+    "text": "<s> [INST] How are 3D maps beneficial in GIS visualization? Options: Option A - They are easier to interpret than 2D maps, Option B - They add temporal dimensions to spatial data, Option C - They provide realistic representations of geographic objects, Option D - They reduce data processing times. [/INST] The correct answer is Option C. </s>"
+  }
+]
