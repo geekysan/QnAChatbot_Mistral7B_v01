@@ -1,0 +1,4 @@
+- I fine-tuned the Mistral-7B-Instruct-v0.1, an open-source chatbot model, for the task of question-answering in the geoinformatics domain.
+- I created a dataset comprising 140 question-answer pairs and randomly split it into 112 pairs for training and 28 for validation.
+- Due to computational limitations in Google Colab, parameter-efficient fine-tuning using LoRA and 4-bit quantization were employed. 
+- The main outcomes of fine-tuning included improved performance on the validation dataset and alignment with the answer template used for curating the dataset: "The correct answer is Option ([A-D])", where the default model without finetuning predicts answer with template "Option ([A-D] - [followed by explanation]".
